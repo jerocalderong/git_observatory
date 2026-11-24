@@ -1,1 +1,26 @@
-git_observatory
+\# git\_observatory
+
+
+
+Fake instrument repo hell yeaaaah
+
+
+
+No installation needed
+
+
+
+To clone it
+
+
+
+bash
+
+
+
+git clone https://github.com/jerocalderong/git\_observatory.git 
+
+
+
+have fun hehe
+
